@@ -12,3 +12,8 @@
     align-items: center;
     flex-direction: column;
 }
+
+.stats_title {
+    font-size: 20px;
+    font-weight: bold;
+}
